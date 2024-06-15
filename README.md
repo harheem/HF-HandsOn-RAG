@@ -1,1 +1,1 @@
-# HF-HadsOn-RAG
+# HF-HandsOn-RAG
